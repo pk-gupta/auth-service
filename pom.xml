@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.marlabs</groupId>
-  <artifactId>Customer-OAuth</artifactId>
+  <groupId>org.mytech</groupId>
+  <artifactId>auth-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
@@ -21,7 +21,7 @@
 		<logback.version>1.1.2</logback.version>
 		<slf4j-api.version>1.7.7</slf4j-api.version>
 		
-		<start-class>org.marlabs.consumer.Application</start-class>
+		<start-class>org.mytech.consumer.Application</start-class>
 
 	</properties>
 

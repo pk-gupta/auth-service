@@ -2,11 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>jar</packaging>
-	<groupId>org.marlabs.oauth2.core</groupId>
+	<groupId>org.mytech.oauth2.core</groupId>
 	<artifactId>OAuth2-Core</artifactId>
 	<parent>
-		<groupId>org.marlabs</groupId>
-		<artifactId>Customer-OAuth</artifactId>
+		<groupId>org.mytech</groupId>
+		<artifactId>auth-service</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<dependencies>

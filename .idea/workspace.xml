@@ -1,19 +1,294 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="E:/servicemock-master" value="PREVIEW" />
-      </map>
+  <component name="ChangeListManager">
+    <list default="true" id="be5b16b9-39d3-4d76-a8a0-911d8a4c5b68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/entity/user/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/entity/user/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/entity/user/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/entity/user/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/ldap/entity/user/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/ldap/entity/user/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/ldap/repo/user/LoginRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/ldap/repo/user/LoginRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/ldap/repo/user/PersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/ldap/repo/user/PersonRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/ldap/repo/user/impl/IConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/ldap/repo/user/impl/IConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/ldap/repo/user/impl/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/ldap/repo/user/impl/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/ldap/repo/user/impl/UserldapRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/ldap/repo/user/impl/UserldapRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/ldap/repo/user/mapper/LoginAttributesMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/ldap/repo/user/mapper/LoginAttributesMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/ldap/repo/user/mapper/PersonMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/ldap/repo/user/mapper/PersonMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/repo/user/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/repo/user/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/service/CustomLdapUserDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/service/CustomLdapUserDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/marlabs/consumer/service/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Core/src/main/java/org/mytech/consumer/service/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Web/OAuth2-Res.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Web/OAuth2-Res.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/marlabs/consumer/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/mytech/consumer/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/marlabs/consumer/InstallCert.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/mytech/consumer/InstallCert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/marlabs/consumer/filter/AccessCtrlFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/mytech/consumer/filter/AccessCtrlFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/marlabs/consumer/ldap/config/CustomLdapAuthManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/mytech/consumer/ldap/config/CustomLdapAuthManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/marlabs/consumer/ldap/config/LdapConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/mytech/consumer/ldap/config/LdapConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/marlabs/consumer/security/OAuth2ServerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/mytech/consumer/security/OAuth2ServerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/marlabs/consumer/security/WebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/mytech/consumer/security/WebInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/marlabs/consumer/security/WebSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/OAuth2-Web/src/main/java/org/mytech/consumer/security/WebSecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/OAuth2-Web/target/" />
+    <ignored path="$PROJECT_DIR$/OAuth2-Core/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OAuth2-Core/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OAuth2-Web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OAuth2-Core/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/OAuth2-Core/pom.xml" />
+        <option value="$PROJECT_DIR$/OAuth2-Web/pom.xml" />
+      </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Customer-OAuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Customer-OAuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="OAuth2-Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Customer-OAuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="OAuth2-Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Customer-OAuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="OAuth2-Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Customer-OAuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="OAuth2-Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Customer-OAuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="OAuth2-Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Customer-OAuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="OAuth2-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Customer-OAuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="OAuth2-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Customer-OAuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="OAuth2-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Customer-OAuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="OAuth2-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564080019031" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be5b16b9-39d3-4d76-a8a0-911d8a4c5b68" name="Default Changelist" comment="" />
+      <created>1564078128237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564078128237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23071104" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OAuth2-Web/src/main/java/org/mytech/consumer/InstallCert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1827">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OAuth2-Core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OAuth2-Web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Customer-OAuth.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OAuth2-Core/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
