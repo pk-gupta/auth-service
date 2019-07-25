@@ -1,0 +1,11 @@
+$ curl -X POST -vu clientapp:123456 http://localhost:8005/oauth/token -H "Accept: application/json" -d "password=***&username=***@***.com&grant_t
+ype=password&scope=read%20write&client_secret=123456&client_id=clientapp"
+
+
+
+mvn clean install && java -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=8000,suspend=n -jar target\OAuth2-Res-0.0.1-SNAPSHOT.war
+
+
+
+
+
